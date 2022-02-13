@@ -1,8 +1,6 @@
 # Online-Ration-SlotBooking-System
 
-project-2-Back-end-Online-Ration-SlotBooking-System https://github.com/Govardhan-999/project-2-Back-end-Online-Ration-SlotBooking-System
-Project-2-Front-end-Online-Ration-SlotBooking-System https://github.com/Govardhan-999/Project-2-Front-end-Online-Ration-SlotBooking-System
-
+## for frontEnd code visit : https://github.com/BhaskaraGowtam/slotbookingsystem.git
 
 ## Project Description :
 Online Ration Slot Booking System that provides Ration cardholder easy way of booking a Slot online. This is a web based application that overcomes the issue of managing and booking Slot according to user’s choice or demands. Hence this project offers an effective solution where users can view various booking slots available and select the preferred date and time. This system also allows users to cancel their booking anytime. The application uses Angular as a front-end , SpringBoot & SQL database as the back-end.
